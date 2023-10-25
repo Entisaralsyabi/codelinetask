@@ -33,10 +33,6 @@ def option2():
         print("Rotated array: ", temp)
     except ValueError:
         print("Invalid input. Please enter valid integers for n, k, and array elements.")
-    
-    
-# except ValueError:
-#     print("Invalid input. Please enter valid integers for n, k, and array elements.")
 
 def option3():
      print(''' --Help-- 
